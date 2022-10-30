@@ -1,0 +1,16 @@
+PODS:
+  - AlertToast (1.3.7)
+
+DEPENDENCIES:
+  - AlertToast
+
+SPEC REPOS:
+  trunk:
+    - AlertToast
+
+SPEC CHECKSUMS:
+  AlertToast: 8c9d5efb2df6ea728b32b62bce99d876ec3e5393
+
+PODFILE CHECKSUM: 6cee107e98dca22fecd3af8a1a65a07c1f6be214
+
+COCOAPODS: 1.11.3
